@@ -35,6 +35,12 @@
         "shallowflow.base.conversions.AbstractConversion"
       ],
       "module_regexp": "shallowflow\\.sklearn\\..*"
+    },
+    "vfs": {
+      "superclasses": [
+        "shallowflow.base.conversions.AbstractConversion"
+      ],
+      "module_regexp": "shallowflow\\.vfs\\..*"
     }
   }
 }
