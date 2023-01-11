@@ -15,5 +15,5 @@ Inverts the result of the base condition.
 * condition (AbstractBooleanCondition)
 
   * The condition to negate
-  * default: <shallowflow.base.conditions._Basic.AlwaysFalse object at 0x7fa23b90ad90>
+  * default: shallowflow.base.conditions.AlwaysFalse
 

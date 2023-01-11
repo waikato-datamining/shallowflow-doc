@@ -43,5 +43,5 @@ input: -unknown-
 * condition (AbstractBooleanCondition)
 
   * The boolean condition to use
-  * default: <shallowflow.base.conditions._Basic.AlwaysTrue object at 0x7fa23b9201c0>
+  * default: shallowflow.base.conditions.AlwaysTrue
 

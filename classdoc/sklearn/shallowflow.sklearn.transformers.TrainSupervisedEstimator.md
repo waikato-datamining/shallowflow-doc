@@ -38,5 +38,5 @@ input: shallowflow.sklearn.datasets.SupervisedDataset
 * estimator (AbstractEstimatorConfiguration)
 
   * The estimator configuration to use
-  * default: <shallowflow.sklearn.estimators._Generic.GenericConfiguration object at 0x7fa23b920340>
+  * default: shallowflow.sklearn.estimators.GenericConfiguration
 

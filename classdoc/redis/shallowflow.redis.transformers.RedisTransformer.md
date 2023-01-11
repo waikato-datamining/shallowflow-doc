@@ -38,5 +38,5 @@ input: -unknown-
 * action (AbstractAction)
 
   * The Redis action to perform
-  * default: <shallowflow.redis.transformers.action._PassThrough.PassThrough object at 0x7fa23b920040>
+  * default: shallowflow.redis.transformers.action.PassThrough
 

@@ -38,5 +38,5 @@ output: -unknown-
 * action (AbstractAction)
 
   * The Redis action to perform
-  * default: <shallowflow.redis.sources.action._Null.Null object at 0x7fa23b920220>
+  * default: shallowflow.redis.sources.action.Null
 

@@ -38,5 +38,5 @@ input: shallowflow.api.io.File
 * loader (AbstractDatasetLoader)
 
   * Loads the dataset from the incoming file
-  * default: <shallowflow.sklearn.transformers.datasetloaders._ArffLoader.ArffLoader object at 0x7fa23b920190>
+  * default: shallowflow.sklearn.transformers.datasetloaders.ArffLoader
 

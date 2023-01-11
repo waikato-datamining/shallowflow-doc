@@ -38,5 +38,5 @@ input: -unknown-
 * conversion (AbstractConversion)
 
   * The conversion to apply to the data
-  * default: <shallowflow.base.conversions._Basic.PassThrough object at 0x7fa23b920190>
+  * default: shallowflow.base.conversions.PassThrough
 
